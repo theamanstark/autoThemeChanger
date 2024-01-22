@@ -10,7 +10,7 @@
 
 # # Documentation
 
-1. Just add the CSS using any one of the following methods below above the `</head>`
+1. Just add the CSS using any one of the following methods above the `</head>` in your theme.
 
    (i) Using inline CSS Style 👇
 
@@ -26,7 +26,7 @@
 
    #### 
 
-   ✨ If you want to get the latest updates as soon as possible then use the below cdn link.
+   ✨ If you want to get the latest updates as soon as possible, then use the below CDN link.
    
    ```html
     <link rel="stylesheet" href="https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/latest/autoTheme.min.css" />
@@ -34,8 +34,10 @@
 
    ### 
 
-   ✨ If you want to use the v1.0 of autoThemeChanger then use the below cdn link.
+   ✨ If you want to use version 1.0 of autoThemeChanger, then use the below cdn link.
 
    ```html
     <link rel="stylesheet" href="https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/v1.0/autoTheme.min.css" />
     ```
+
+2. Now, put the following javascript above: `</body>` in your theme.
