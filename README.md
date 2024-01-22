@@ -69,3 +69,7 @@
    ```html
    <div class="brr"/><h6 class="head1">Auto Theme Changer</h6><p class="para1">When turned on automatically changes</p><p class="para2">the theme color</p><label class="switch"><input id="theme-toggle" type="checkbox"/><span class="slider round"/></label><div class="brr"/><h6 class="head1">Auto Themer</h6><p class="para1">When turned on automatically changes</p><p class="para2">the theme color every 5 sec.</p><label class="switch"><input id="auto-theme" type="checkbox"/><span class="slider round"/></label>
    ```
+
+   ##
+
+##### #Note: If you experience any problems with the code, raise the issue on the repo's Issues tab. Also, you cannot presently adjust the time-frame of Auto Themer from 5 seconds to a custom number; this will be included in a future version of the code.
