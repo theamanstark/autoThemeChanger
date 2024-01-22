@@ -1,4 +1,4 @@
-<h1 align="center">Auto Theme Changer - Plus UI Blogger Theme Addon</h1>
+<h1 align="center">Auto Theme Changer - Plus UI Addon</h1>
 
 ![AvatarJs](https://raw.githubusercontent.com/theamanstark/autoThemeChanger/v1.0/.gitassets/demo.png)
 </br>
