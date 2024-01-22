@@ -21,3 +21,11 @@
    ```
 
    **Note**: We suggest adding CSS using the second method, which is to use an external CSS style cdn link. This way, if any changes are made to the code, you will see the updates on your site right away, but if you intend to customize the widget, use the first method.
+
+   (ii) Using an external CSS style cdn link 👇
+
+   (a) If you want to get the latest updates as soon as possible then use the below cdn link.
+   
+   ```html
+    <link rel="stylesheet" href="https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/latest/autoTheme.min.css" />
+    ```
