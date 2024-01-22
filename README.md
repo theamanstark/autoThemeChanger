@@ -24,7 +24,7 @@
 
    (ii) Using an external CSS style cdn link 👇
 
-   #
+   ##### 
 
    ✨ If you want to get the latest updates as soon as possible then use the below cdn link.
    
@@ -32,7 +32,7 @@
     <link rel="stylesheet" href="https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/latest/autoTheme.min.css" />
     ```
 
-   <p></p>
+   #### 
 
    ✨ If you want to use the v1.0 of autoThemeChanger then use the below cdn link.
 
