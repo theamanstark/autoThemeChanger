@@ -46,7 +46,7 @@
 
    ####
 
-   ✨ If you want to get the latest updates as soon as possible, then use the below CDN link.
+   😶‍🌫️ If you want to get the latest updates as soon as possible, then use the below CDN link.
 
    ```html
    <script src='https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/latest/autoTheme.min.js'></script>
@@ -54,7 +54,7 @@
 
    ###
 
-   ✨ If you want to use version 1.0 of autoThemeChanger, then use the below cdn link.
+   😶‍🌫️ If you want to use version 1.0 of autoThemeChanger, then use the below cdn link.
 
    ```html
    <script src='https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/v1.0/autoTheme.min.js'></script>
