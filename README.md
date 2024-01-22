@@ -42,7 +42,7 @@
 
    ##
 
-2. Now, put the following javascript above: `</body>` in your theme.
+2. Now, put the following javascript above: `</body>` in your theme, using any one of the cdn links.
 
    ####
 
@@ -59,3 +59,7 @@
    ```html
    <script src='https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/v1.0/autoTheme.min.js'></script>
    ```
+
+   ##
+
+   
