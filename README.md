@@ -67,7 +67,7 @@
    ![ThemeChangerHTML](https://raw.githubusercontent.com/theamanstark/autoThemeChanger/v1.0/.gitassets/html-help.png)
 
    ```html
-   <div class="brr"/><h6 class="head1">Auto Theme Changer</h6><p class="para1">When turned on automatically changes</p><p class="para2">the theme color on reload.</p><label class="switch"><input id="theme-toggle" type="checkbox"/><span class="slider round"/></label><div class="brr"/><h6 class="head1">Auto Themer</h6><p class="para1">When turned on automatically changes</p><p class="para2">the theme color every 5 sec.</p><label class="switch"><input id="auto-theme" type="checkbox"/><span class="slider round"/></label>
+   <div class="brr"/><h6 class="head1">Auto Theme Changer</h6><p class="para1">When turned on automatically changes</p><p class="para2">the theme color on reload.</p><label class="switch"><input id="theme-toggle" type="checkbox"/><span class="slider round"/></label><div class="brr" style="margin-top:-6px;"/><h6 class="head1">Auto Themer</h6><p class="para1">When turned on automatically changes</p><p class="para2">the theme color every 5 sec.</p><label class="switch"><input id="auto-theme" type="checkbox"/><span class="slider round"/></label>
    ```
 
    ##
