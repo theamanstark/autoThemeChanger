@@ -40,6 +40,8 @@
     <link rel="stylesheet" href="https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/v1.0/autoTheme.min.css" />
     ```
 
+   ##
+
 2. Now, put the following javascript above: `</body>` in your theme.
 
    ####
