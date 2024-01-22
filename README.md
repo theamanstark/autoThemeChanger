@@ -24,9 +24,7 @@
 
    (ii) Using an external CSS style cdn link 👇
 
-   <p></p>
-   <p></p>
-   <p></p>
+   ##### 
 
    ✨ If you want to get the latest updates as soon as possible then use the below cdn link.
    
