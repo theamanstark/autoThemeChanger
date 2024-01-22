@@ -72,4 +72,4 @@
 
    ##
 
-##### #Note: If you experience any problems with the code, raise the issue on the repo's Issues tab. Also, you cannot presently adjust the time-frame of Auto Themer from 5 seconds to a custom number; this will be included in a future version of the code.
+#### #Note: If you experience any problems with the code, raise the issue on the repo's <a href="https://github.com/theamanstark/autoThemeChanger/issue">Issues</a> tab. Also, you cannot presently adjust the time-frame of Auto Themer from 5 seconds to a custom number; this will be included in a future version of the code.
