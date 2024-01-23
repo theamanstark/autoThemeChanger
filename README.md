@@ -13,6 +13,7 @@
 1. Auto Theme Changer will change the theme on site load, opening posts, pages, searches, labels, categories, and reloading the site.
 2. Auto Themer will change the site theme every 5 seconds, giving it a disco-like look. Use this as an Easter egg on your site.
 3. Auto Theme Changer and Auto Themer will be disabled in dark mode since Plus UI lacks support for dark mode theme colors.
+4. When the user returns to light mode from dark mode, the toggle button will be activated automatically upon the next site load or reload.
 
 </br>
 </br>
