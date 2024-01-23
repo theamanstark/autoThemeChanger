@@ -8,6 +8,14 @@
 </br>
 </br>
 
+# # Usage 
+
+1. Auto Theme Changer will change the theme on site load, like opening posts, pages, searches, labels, categories, and reloading the site.
+2. Auto Themer will change the site theme every 5 seconds, giving it a disco-like look. Use this as an Easter egg on your site.
+
+</br>
+</br>
+
 # # Documentation
 
 1. Just add the CSS using any one of the following methods above the `</head>` in your theme.
