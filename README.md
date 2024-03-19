@@ -47,7 +47,7 @@
 
    ### 
 
-   ✨ If you want to use version 1.0 (currently the latest version) of autoThemeChanger, then use the below cdn link.
+   ✨ If you want to use version 1.0 (currently v1.2 is the latest version) of autoThemeChanger, then use the below cdn link.
 
    ```html
     <link rel="stylesheet" href="https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/v1.0/autoTheme.min.css" />
@@ -67,7 +67,7 @@
 
    ###
 
-   ⚡ If you want to use version 1.0 of autoThemeChanger, then use the below cdn link.
+   ⚡ If you want to use version 1.0 (currently v1.2 is the latest version) of autoThemeChanger, then use the below cdn link.
 
    ```html
    <script src='https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/v1.0/autoTheme.min.js'></script>
